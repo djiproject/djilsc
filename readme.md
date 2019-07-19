@@ -1,0 +1,2 @@
+MyActivity.java文件实现基于大疆的从服务器端到客户端的图像传输实现
+SingleUavSystem.zip文件对第一组同学项目的bug调试并使其正常运行
